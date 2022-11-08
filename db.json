@@ -1,0 +1,178 @@
+{
+    "results": [
+      {
+        "gender": "female",
+        "name": {
+          "title": "Miss",
+          "first": "Carla",
+          "last": "Matthews"
+        },
+        "location": {
+          "street": {
+            "number": 2046,
+            "name": "Brown Terrace"
+          },
+          "city": "Bendigo",
+          "state": "New South Wales",
+          "country": "Australia",
+          "postcode": "8901",
+          "coordinates": {
+            "latitude": "-81.9748",
+            "longitude": "165.3385"
+          },
+          "timezone": {
+            "offset": "+5:30",
+            "description": "Bombay, Calcutta, Madras, New Delhi"
+          }
+        },
+        "email": "carla.matthews@example.com",
+        "login": {
+          "uuid": "293b3022-88e4-4343-8707-a7357a3766a1",
+          "username": "heavymouse521",
+          "password": "1967",
+          "salt": "sld1yGtd",
+          "md5": "209787490aab196f2c8e2247505f4c31",
+          "sha1": "d8e8a39782bc7ef109bc7e65a627339985594b1e",
+          "sha256": "b27b6370fb5135bd74b7e17c10b6d58104b43cc8f95c4353623b815ab01e3d5d"
+        },
+        "dob": {
+          "date": "1956-05-27T08:08:27.448Z",
+          "age": 66
+        },
+        "registered": {
+          "date": "2009-07-20T01:48:28.009ZZ",
+          "age": 13
+        },
+        "phone": "06-2434-6050",
+        "cell": "0410-284-802",
+        "id": {
+          "name": "TFN",
+          "value": "135059990"
+        },
+        "picture": {
+          "large": "https://randomuser.me/api/portraits/women/44.jpg",
+          "medium": "https://randomuser.me/api/portraits/med/women/44.jpg",
+          "thumbnail": "https://randomuser.me/api/portraits/thumb/women/44.jpg"
+        },
+        "nat": "AU"
+      },
+      {
+        "gender": "female",
+        "name": {
+          "title": "Miss",
+          "first": "Jennie",
+          "last": "Nichols"
+        },
+        "location": {
+          "street": {
+            "number": 8929,
+            "name": "Valwood Pkwy"
+          },
+          "city": "Billings",
+          "state": "Michigan",
+          "country": "United States",
+          "postcode": "63104",
+          "coordinates": {
+            "latitude": "-69.8246",
+            "longitude": "134.8719"
+          },
+          "timezone": {
+            "offset": "+9:30",
+            "description": "Adelaide, Darwin"
+          }
+        },
+        "email": "jennie.nichols@example.com",
+        "login": {
+          "uuid": "7a0eed16-9430-4d68-901f-c0d4c1c3bf00",
+          "username": "yellowpeacock117",
+          "password": "addison",
+          "salt": "sld1yGtd",
+          "md5": "ab54ac4c0be9480ae8fa5e9e2a5196a3",
+          "sha1": "edcf2ce613cbdea349133c52dc2f3b83168dc51b",
+          "sha256": "48df5229235ada28389b91e60a935e4f9b73eb4bdb855ef9258a1751f10bdc5d"
+        },
+        "dob": {
+          "date": "1992-03-08T15:13:16.688Z",
+          "age": 30
+        },
+        "registered": {
+          "date": "2007-07-09T05:51:59.390Z",
+          "age": 14
+        },
+        "phone": "(272) 790-0888",
+        "cell": "(489) 330-2385",
+        "id": {
+          "name": "SSN",
+          "value": "405-88-3636"
+        },
+        "picture": {
+          "large": "https://randomuser.me/api/portraits/men/75.jpg",
+          "medium": "https://randomuser.me/api/portraits/med/men/75.jpg",
+          "thumbnail": "https://randomuser.me/api/portraits/thumb/men/75.jpg"
+        },
+        "nat": "US"
+      },
+      {
+        "gender": "female",
+        "name": {
+          "title": "Miss",
+          "first": "Jennie",
+          "last": "Nichols"
+        },
+        "location": {
+          "street": {
+            "number": 8929,
+            "name": "Valwood Pkwy"
+          },
+          "city": "Billings",
+          "state": "Michigan",
+          "country": "United States",
+          "postcode": "63104",
+          "coordinates": {
+            "latitude": "-69.8246",
+            "longitude": "134.8719"
+          },
+          "timezone": {
+            "offset": "+9:30",
+            "description": "Adelaide, Darwin"
+          }
+        },
+        "email": "jennie.nichols@example.com",
+        "login": {
+          "uuid": "7a0eed16-9430-4d68-901f-c0d4c1c3bf00",
+          "username": "yellowpeacock117",
+          "password": "addison",
+          "salt": "sld1yGtd",
+          "md5": "ab54ac4c0be9480ae8fa5e9e2a5196a3",
+          "sha1": "edcf2ce613cbdea349133c52dc2f3b83168dc51b",
+          "sha256": "48df5229235ada28389b91e60a935e4f9b73eb4bdb855ef9258a1751f10bdc5d"
+        },
+        "dob": {
+          "date": "1992-03-08T15:13:16.688Z",
+          "age": 30
+        },
+        "registered": {
+          "date": "2007-07-09T05:51:59.390Z",
+          "age": 14
+        },
+        "phone": "(272) 790-0888",
+        "cell": "(489) 330-2385",
+        "id": {
+          "name": "SSN",
+          "value": "405-88-3636"
+        },
+        "picture": {
+          "large": "https://randomuser.me/api/portraits/men/75.jpg",
+          "medium": "https://randomuser.me/api/portraits/med/men/75.jpg",
+          "thumbnail": "https://randomuser.me/api/portraits/thumb/men/75.jpg"
+        },
+        "nat": "US"
+      }
+    ],
+    "info": {
+      "seed": "56d27f4a53bd5441",
+      "results": 1,
+      "page": 1,
+      "version": "1.0"
+    }
+  }
